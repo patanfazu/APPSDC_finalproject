@@ -11,6 +11,17 @@ The project is completely built by using reactjs,bootstrap and mysql database co
 After completion of the quiz each and every response of a question is stored  in a table, and the score will be retrieved after completion of the quiz, score and name of user will be stored in a separate table so that one user can see others' score. By using various operations on databases, we will create and  insert data into tables for user registration, read details of user for checking login credentials, insert responses, display or fetch scores, update and delete password, and more crud operations will be used in this project
 
 Till now we completed Front-end part and the code is given [here](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject.git)
+*Screen Shots*
+**Login Page**
+![Login page](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(2).png)
+**Registration Page**
+![Registration Pag](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(3).png)
+**Display Of Questions**
+![Display Of Questions](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(4).png)
+**Selected options**
+![Selected optionse](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(5).png)
+**Display of Scores**
+![Display of Scores](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(6).png)
 
 ### Software requirements:
 1. Bootstrap
