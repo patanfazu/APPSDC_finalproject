@@ -1,375 +1,312 @@
 const qBank = [
   {
     question:
-      "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
-    answers: ["Richard Branson", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "Richard Branson",
+    	"The name of the Laccadive, Minicoy and Amindivi islands was changed to Lakshadweep by an Act of Parliament in ",
+    answers: ["1970","1971","1972","1973"],
+    correct: "1973",
     questionId: "099099"
   },
   {
     question:
-      'Where is the train station "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch"?',
-    answers: ["Wales", "Moldova", "Czech Republic", "Denmark"],
-    correct: "Wales",
-    questionId: "183452"
+      "The members of the Rajya Sabha are elected by ",
+    answers: ["The people", "Lok Sabha", "Elected members of the legislative assembly", "Elected members of the legislative council"],
+    correct: "Elected members of the legislative assembly",
+    questionId:"183452"
   },
   {
     question:
-      "Which company did Valve cooperate with in the creation of the Vive?",
-    answers: ["HTC", "Oculus", "Google", "Razer"],
-    correct: "HTC",
+      "The power to decide an election petition is vested in the ",
+    answers: ["Parliament", "Supreme Court", "Supreme Courts", "Election Commission"],
+    correct: "Supreme Courts",
     questionId: "267908"
   },
   {
-    question: "What's the name of Batman's  parents?",
-    answers: [
-      "Thomas & Martha",
-      "Joey & Jackie",
-      "Jason & Sarah",
-      "Todd & Mira"
-    ],
-    correct: "Thomas & Martha",
+    question:
+      "The members of a State Commission can be removed by the ",
+    answers: ["governor on a report by the Supreme Court", "governor on a resolution passed by Parliament", "president on a report by the Supreme Court", "president on a resolution passed by Parliament"],
+    correct: "president on a report by the Supreme Court",
     questionId: "333247"
   },
   {
-    question: "What is the most common surname Wales?",
-    answers: ["Jones", "Williams", "Davies", "Evans"],
-    correct: "Jones",
+    question:
+      "The Muslim League as a political party was founded in  ",
+    answers: ["1906","1909", "1915", "1919"],
+    correct: "1906",
     questionId: "496293"
   },
   {
     question:
-      "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
-    answers: [
-      "Demolition",
-      "The Dream Team",
-      "The Bushwhackers",
-      "The British Bulldogs"
-    ],
-    correct: "Demolition",
+      "The members of the state legislature exercise control over the council of the ministers through",
+    answers: ["questions and supplementary questions","criticism of its policies","adjournment motion","All of the above"],
+    correct: "All of the above",
     questionId: "588909"
   },
   {
     question:
-      'What name represents the letter "M" in the NATO phonetic alphabet?',
-    answers: ["Mike", "Matthew", "Mark", "Max"],
-    correct: "Mike",
+      " The national anthem was written by",
+    answers: ["Bankim Chandra Chatterjee","Rabindranath Tagore","Sarat Chandra Chatterjee","Aurobindo Ghosh"],
+    correct: "Rabindranath Tagore",
     questionId: "648452"
   },
   {
-    question: "What is the first book of the Old Testament?",
-    answers: ["Genesis", "Exodus", "Leviticus", "Numbers"],
-    correct: "Genesis",
+    question:
+      "he name of the union given in the Constitution is ",
+    answers: ["Hindustan or Bharatavarsha", "India or Hindustan", "India or Bharat", "Bharatadesh or India"],
+    correct: "India or Bharat",
     questionId: "786649"
   },
   {
     question:
-      "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
-    answers: ["Key", "Sword", "Pen", "Cellphone"],
-    correct: "Key",
+      "The members of Parliament can express themselves in the House in ",
+    answers: ["English only","Hindi only","English or Hindi","English, Hindi or mother tongue"],
+    correct: "English, Hindi or mother tongue",
     questionId: "839754"
   },
   {
     question:
-      "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
-    answers: [
-      "Cabbage Patch Kids",
-      "Transformers",
-      "Care Bears",
-      "Rubik’s Cube"
-    ],
-    correct: "Cabbage Patch Kids",
+      "Blue is what number on the resistor color code? ",
+    answers: ["1","4","2","6"],
+    correct: "6",
     questionId: "98390"
   },
   {
-    question: "What does a funambulist walk on?",
-    answers: ["A Tight Rope", "Broken Glass", "Balls", "The Moon"],
-    correct: "A Tight Rope",
+    question:
+      "Changing computer language of 1's and 0's to characters that a person can understand is ",
+    answers: ["Highlight","Clip art","Decode","Execute"],
+    correct: "Decode",
     questionId: "1071006"
   },
   {
-    question: "In past times, what would a gentleman keep in his fob pocket?",
-    answers: ["Watch", "Money", "Keys", "Notebook"],
-    correct: "Watch",
+    question:
+      "What's a web browser ",
+    answers: ["A kind of spider","A computer that stores WWW files","A person who likes to look at websites","A software program that allows you to access sites on the World Wide Web"],
+    correct: "A software program that allows you to access sites on the World Wide Web",
     questionId: "1174154"
   },
   {
-    question: "Area 51 is located in which US state?",
-    answers: ["Nevada", "Arizona", "New Mexico", "Utah"],
-    correct: "Nevada",
+    question:
+      "How many bits is a byte? ",
+    answers: ["4","8","16 ","32 "],
+    correct: "8",
     questionId: "1226535"
   },
   {
-    question: "How would one say goodbye in Spanish?",
-    answers: ["Adiós", " Hola", "Au Revoir", "Salir"],
-    correct: "Adiós",
+    question:
+      "The speed of your net access is defined in terms of ",
+    answers: ["RAM","MHz","Kbps","Megabytes"],
+    correct: "Kbps",
     questionId: "1310938"
   },
   {
-    question: "What is the largest organ of the human body?",
-    answers: ["Skin", "Heart", "large Intestine", "Liver"],
-    correct: "Skin",
+    question:
+      " Which of the following operating systems is produced by IBM? ",
+    answers: ["OS-2","Windows","DOS","UNIX"],
+    correct: "OS-2",
     questionId: "1436873"
   },
   {
-    question: "Which sign of the zodiac is represented by the Crab?",
-    answers: ["Cancer", "Libra", "Virgo", "Sagittarius"],
-    correct: "Cancer",
+    question:
+      "FFC stands for",
+    answers: ["Foreign Finance Corporation","Film Finance Corporation","Federation of Football Council","None of the above"],
+    correct: "Film Finance Corporation",
     questionId: "1515110"
   },
   {
-    question: "On a dartboard, what number is directly opposite No. 1?",
-    answers: ["19", "20", "12", "15"],
-    correct: "19",
+    question:
+      "The ratio of width of our National flag to its length is",
+    answers: ["3:5","2:3","2:4","3:4"],
+    correct: "2:3",
     questionId: "1642728"
   },
   {
     question:
-      "What does the 'S' stand for in the abbreviation SIM, as in SIM card? ",
-    answers: ["Subscriber", "Single", "Secure", "Solid"],
-    correct: "Subscriber",
+      " 'Kathakali' is a folk dance prevalent in which state? ",
+    answers: ["Karnataka","Orissa","Kerala","Manipur"],
+    correct: "Kerala" ,
     questionId: "1747256"
+  },
+  
+  {
+    question:
+      "The National Anthem was first sung in the year",
+    answers: ["1911","1913","1936","1935"],
+    correct: "1911",
+    questionId: "1822532" 
   },
   {
     question:
-      "What word represents the letter 'T' in the NATO phonetic alphabet?",
-    answers: ["Tango", "Target", "Taxi", "Turkey"],
-    correct: "Tango",
-    questionId: "1822532"
-  },
-  {
-    question: "Which American president appears on a one dollar bill?",
-    answers: [
-      "George Washington",
-      "Thomas Jefferson",
-      "Abraham Lincoln",
-      "Benjamin Franklin"
-    ],
-    correct: "George Washington",
+      "In India the first television programme was broadcasted in",
+    answers: ["1959","1965","1976","1957"],
+    correct: "1959",
     questionId: "195075"
   },
   {
-    question: 'What is "dabbing"?',
-    answers: ["A dance", "A medical procedure", "A sport", "A language"],
-    correct: "A dance",
-    questionId: "2019778"
+    question:
+      "A Voice for Freedom' is a book written by",
+    answers: ["Corazon Aquino","Nayantara Sahgal","Aung San Suu Kyi","Benazir Bhutto"],
+    correct:"Nayantara Sahgal" ,
+    questionId:"2019778" 
   },
   {
-    question: "What is the name of the Jewish New Year?",
-    answers: ["Rosh Hashanah", "Elul", "New Year", "Succoss"],
-    correct: "Rosh Hashanah",
+    question:
+      "Who is the father of English Poetry? ",
+    answers: ["Milton","Wordsworth","Chaucer","Charles Dickens"],
+    correct:"Chaucer" ,
     questionId: "2134343"
   },
   {
-    question: "Which one of the following rhythm games was made by Harmonix?",
-    answers: [
-      "Rock Band",
-      "Meat Beat Mania",
-      "Guitar Hero Live",
-      "Dance Dance Revolution"
-    ],
-    correct: "Rock Band",
+    question:
+      "Which was the 1st non Test playing country to beat India in an international match?", 
+    answers: ["Canada","Sri Lanka","Zimbabwe","East Africa"],
+    correct: "Sri Lanka",
     questionId: "2210799"
   },
   {
     question:
-      "What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
-    answers: ["Gorilla", "Tiger", "Panda", "Crocodile"],
-    correct: "Gorilla",
+      "Who is the first Indian woman to win an Asian Games gold in 400m run? ",
+    answers: ["M.L.Valsamma","P.T.Usha","Kamaljit Sandhu","K.Malleshwari"],
+    correct: "Kamaljit Sandhu",
     questionId: "2379831"
   },
   {
-    question: "Red Vines is a brand of what type of candy?",
-    answers: ["Licorice", "Lollipop", "Chocolate", "Bubblegum"],
-    correct: "Licorice",
+    question:
+      "Which two counties did Kapil Dev play? ",
+    answers: [
+    	"Northamptonshire & Worcestershire",
+    	"Northamptonshire & Warwickshire",
+    	"Nottinghamshire & Worcestershire",
+    	"Nottinghamshire & Warwickshire"
+],
+    correct:"Northamptonshire & Worcestershire" ,
     questionId: "2426418"
-  },
-  {
-    question: "What is the nickname of the US state of California?",
-    answers: ["Golden State", "Sunshine State", "Bay State", "Treasure State"],
-    correct: "Golden State",
+},
+{
+    question:
+      "When was Amateur Athletics Federation of India established? ",
+    answers: ["1936","1946","1956","1966"],
+    correct: "1946",
     questionId: "2510086"
   },
   {
-    question: "What is on display in the Madame Tussaud's museum in London?",
-    answers: [
-      "Wax sculptures",
-      "Designer clothing",
-      "Unreleased film reels",
-      "Vintage cars"
-    ],
-    correct: "Wax sculptures",
-    questionId: "2685745"
+    question:
+      ".How long are professional Golf Tour players allotted per shot?",
+    answers: ["45 seconds","25 seconds","1 minute","2 minutes"],
+    correct:"45 seconds" ,
+    questionId:"2685745" 
   },
   {
     question:
-      "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
-    answers: ["Spruce Goose", "Noah's Ark", "Fat Man", "Trojan Horse"],
-    correct: "Spruce Goose",
+      "When is the World Population Day observed? ",
+    answers: ["May 31","October 4","December 10","July 11"],
+    correct:"July 11" ,
     questionId: "2796884"
   },
   {
-    question: "Which of these colours is NOT featured in the logo for Google?",
-    answers: ["Pink", "Yellow", "Blue", "Green"],
-    correct: "Pink",
+    question:
+      "Where is the Railway Staff College located? ",
+    answers: ["Pune","Allahabad","Vadodara","Delhi "],
+    correct: "Vadodara",
     questionId: "2838900"
   },
   {
-    question: 'What is the French word for "hat"?',
-    answers: ["Chapeau", "Bonnet", " Écharpe", " Casque"],
-    correct: "Chapeau",
+    question:
+      "The famous Dilwara Temples are situated in ",
+    answers: ["Uttar Pradesh","Rajasthan","Maharashtra","Madhya Pradesh "],
+    correct: "Rajasthan",
     questionId: "298060"
   },
   {
-    question: "Five dollars is worth how many nickles?",
-    answers: ["100", "50", "25", "69"],
-    correct: "100",
-    questionId: "3096579"
+    question:
+     "Which city is known as 'Electronic City of India'? ",
+    answers: ["Mumbai","Hyderabad","Guragon","Bangalore"],
+    correct: "Bangalore",
+    questionId: "3096579" 
   },
   {
-    question: "Who is depicted on the US hundred dollar bill?",
-    answers: [
-      "Benjamin Franklin",
-      "George Washington",
-      "Abraham Lincoln",
-      "Thomas Jefferson"
-    ],
-    correct: "Benjamin Franklin",
+    question:
+      "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+    answers: ["Richard Branson", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "Richard Branson",
     questionId: "3182461"
   },
   {
-    question: "What do the letters in the GMT time zone stand for?",
-    answers: [
-      "Greenwich Mean Time",
-      "Global Meridian Time",
-      "General Median Time",
-      "Glasgow Man Time"
-    ],
-    correct: "Greenwich Mean Time",
+    question:
+      "Golden Temple is situated in ",
+    answers: ["New Delhi","Agra","Amritsar","Mumbai"],
+    correct:"Amritsar" ,
     questionId: "3239112"
   },
   {
-    question: "Which one of these is not a typical European sword design?",
-    answers: ["Scimitar", "Falchion", "Ulfberht", "Flamberge"],
-    correct: "Scimitar",
+    question:
+      "Which of the following metals forms an amalgam with other metals?",
+    answers: ["Tin","Mercury","Lead","Zinc "],
+    correct: "Mercury",
     questionId: "3318503"
   },
   {
     question:
-      'According to Sherlock Holmes, "If you eliminate the impossible, whatever remains, however improbable, must be the..."',
-    answers: ["Truth", "Answer", "Cause", "Source"],
-    correct: "Truth",
+      "Bromine is a ",
+    answers: ["black solid","red liquid","colourless gas","highly inflammable gas"],
+    correct: "red liquid",
     questionId: "3410327"
   },
   {
-    question: "What is the name of Poland in Polish?",
-    answers: ["Polska", "Pupcia", "Polszka", "Póland"],
-    correct: "Polska",
+    question:
+      "Epoxy resins are used as",
+    answers: ["detergents","insecticides","adhesives","moth repellents "],
+    correct: "adhesives",
     questionId: "3542596"
   },
   {
-    question: "The New York Times slogan is, “All the News That’s Fit to…”",
-    answers: ["Print", "Digest", "Look", "Read"],
-    correct: "Print",
+    question:
+      "Who is the father of Geometry?", 
+    answers: ["Aristotle","Euclid","Pythagoras","Kepler"],
+    correct: "Euclid",
     questionId: "3667517"
   },
   {
-    question: "What do the letters of the fast food chain KFC stand for?",
-    answers: [
-      "Kentucky Fried Chicken",
-      "Kentucky Fresh Cheese",
-      "Kibbled Freaky Cow",
-      "Kiwi Food Cut"
-    ],
-    correct: "Kentucky Fried Chicken",
+    question:
+      "Who invented the BALLPOINT PEN?",
+    answers: ["Biro Brothers","Waterman Brothers","Bicc Brothers","Write Brothers"],
+    correct: "Biro Brothers",
     questionId: "3791672"
   },
   {
-    question: "Which restaurant's mascot is a clown?",
-    answers: ["McDonald's", "Whataburger", "Burger King", "Sonic"],
-    correct: "McDonald's",
+    question:
+      "Kiran Bedi received Magsaysay Award for government service in ",
+    answers: ["1992","1993","1994","1995"],
+    correct: "1994",
     questionId: "3893585"
   },
   {
-    question: 'What color is the "Ex" in FedEx Ground?',
+    question: 
+    	"What color is the 'Ex' in FedEx Ground? ",
     answers: ["Green", "Red", "Light Blue", "Orange"],
     correct: "Green",
     questionId: "3913430"
   },
   {
-    question: "How tall is the Burj Khalifa?",
-    answers: ["2,722 ft", "2,717 ft", "2,546 ft", "3,024 ft"],
-    correct: "2,722 ft",
+    question: 
+    	"Which soil is suitable for agriculture? ",
+    answers: ["Red soil", "Sand", "Black soil", "peaty soil"],
+    correct: "peaty soil",
     questionId: "4049121"
   },
   {
-    question:
-      "Which of the following card games revolves around numbers and basic math?",
-    answers: ["Uno", "Go Fish", "Twister", "Munchkin"],
-    correct: "Uno",
+    question: 
+    	"The language spoken by the people by pakistan is? ",
+    answers: ["Hindi", "palauan", "sindhi", "Nauruan"],
+    correct: "sindhi",
     questionId: "4150746"
   },
   {
     question:
-      "What machine element is located in the center of fidget spinners?",
-    answers: ["Bearings", "Axles", "Gears", "Belts"],
-    correct: "Bearings",
+      "The Noble Prize was first awarded in ",
+    answers: ["1976","1958","1901","1972"],
+    correct: "1901",
     questionId: "4235063"
-  },
-  {
-    question: "Which sign of the zodiac comes between Virgo and Scorpio?",
-    answers: ["Libra", "Gemini", "Taurus", "Capricorn"],
-    correct: "Libra",
-    questionId: "4321002"
-  },
-  {
-    question: "Which of the following presidents is not on Mount Rushmore?",
-    answers: [
-      "John F. Kennedy",
-      "Theodore Roosevelt",
-      "Abraham Lincoln",
-      "Thomas Jefferson"
-    ],
-    correct: "John F. Kennedy",
-    questionId: "4442286"
-  },
-  {
-    question: "What is Tasmania?",
-    answers: [
-      "An Australian State",
-      "A flavor of Ben and Jerry's ice-cream",
-      "A Psychological Disorder",
-      "The Name of a Warner Brothers Cartoon Character"
-    ],
-    correct: "An Australian State",
-    questionId: "4564430"
-  },
-  {
-    question: "What company developed the vocaloid Hatsune Miku?",
-    answers: ["Crypton Future Media", "Sega", "Sony", "Yamaha Corporation"],
-    correct: "Crypton Future Media",
-    questionId: "4630606"
-  },
-  {
-    question:
-      "Which country, not including Japan, has the most people of japanese decent?",
-    answers: ["Brazil", "China", "South Korea", "United States of America"],
-    correct: "Brazil",
-    questionId: "4795960"
-  },
-  {
-    question: "Which candy is NOT made by Mars?",
-    answers: ["Almond Joy", "M&M's", "Twix", "Snickers"],
-    correct: "Almond Joy",
-    questionId: "4811162"
-  },
-  {
-    question: "In which fast food chain can you order a Jamocha Shake?",
-    answers: ["Arby's", "McDonald's", "Burger King", "Wendy's"],
-    correct: "Arby's",
-    questionId: "4982981"
-  }
-];
+   } 
+  ];
 
-export default (n = 10) =>
+  export default (n = 10) =>
   Promise.resolve(qBank.sort(() => 0.5 - Math.random()).slice(0, n));
