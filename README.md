@@ -12,14 +12,20 @@ After completion of the quiz each and every response of a question is stored  in
 
 Till now we completed Front-end part and the code is given [here](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject.git)
 *Screen Shots*
+
+
 **Login Page**
 ![Login page](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(2).png)
+
 **Registration Page**
 ![Registration Pag](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(3).png)
+
 **Display Of Questions**
 ![Display Of Questions](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(4).png)
+
 **Selected options**
 ![Selected optionse](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(5).png)
+
 **Display of Scores**
 ![Display of Scores](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject/blob/master/Screenshot%20(6).png)
 
