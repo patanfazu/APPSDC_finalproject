@@ -12,7 +12,7 @@ After completion of the quiz each and every response of a question is stored  in
 
 Code of Our Project is available [here](https://github.com/patanfazu/QuizBuckers_APSSDC_finalproject.git)
 
-
+![sgssssssssssss](public/logo192.png)
 *Screen Shots of Our Project Quiz Buckers*
 
 
