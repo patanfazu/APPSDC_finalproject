@@ -43,10 +43,6 @@ Code of Our Project is available [here](https://github.com/patanfazu/QuizBuckers
 1. 128 GB-Hard Disk
 1. I3 or above processor
 
-### Team Members:
-1. D. Harshitha          AP18211050001   
-1. P .Fazulullah         AP18211050005
-1. P. Sree Deepthi       AP18211050006
-1. Sk. Abdul Rehman      AP18211050003
+
 
 
